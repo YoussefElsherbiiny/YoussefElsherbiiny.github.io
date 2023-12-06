@@ -5,7 +5,7 @@ main:
     url: /categories/#reverse-engineering
   - title: "Malware Analysis"
     url: /categories/#malware-analysis
-  - title: "Tutorials Summaries"
-    url: /categories/#tutorials-summaries  
+  - title: "Threat Hunting"
+    url: /categories/#threat-hunting 
   - title: "About Me"
     url: /about/
