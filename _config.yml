@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Usuf Hwidi"
-  avatar : "/assets/images/usuf.jpg"
+  avatar : "/assets/images/Hwidi.jpeg"
   bio    : "CS Graduate, Cyber Security enthusiastic, Interested in Reverse Engineering, Malware Analysis, and Incident Detection and Response."
   links:
     - label: "Website"
