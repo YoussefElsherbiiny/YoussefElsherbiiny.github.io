@@ -16,7 +16,7 @@
 title: HW1D1
 email: usufalsayed@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  CS Graduate, Cyber Security enthusiastic, Interested in Reverse Engineering, Malware Analysis, and Incident Detection and Response.
+  Highly motivated and computer science enthusiast with a passion for incident detection and response, reverse engineering, and malware analysis. Proven experience with various SIEM, EDRs, NDRs, and XDRs solutions. Static and dynamic analysis tools, and x86/x64 assembly. My technical expertise and strategic insight help ensure robust defense mechanisms and maintain organizational security.
 twitter_username: Uhwidi
 github_username: YoussefElsherbiiny
 minimal_mistakes_skin: dark
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Usuf Hwidi"
+  name   : "Youssef Elsherbiny"
   avatar : "/assets/images/Hwidi.jpeg"
-  bio    : "CS Graduate, Cyber Security enthusiastic, Interested in Reverse Engineering, Malware Analysis, and Incident Detection and Response."
+  bio    : "Cyber Security Analyst @ Coordinates | Malware Analyst, highly motivated and computer science enthusiast with a passion for incident detection and response, reverse engineering, and malware analysis. Proven experience with various SIEM, EDRs, NDRs, and XDRs solutions. Static and dynamic analysis tools, and x86/x64 assembly. My technical expertise and strategic insight help ensure robust defense mechanisms and maintain organizational security."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,10 +70,10 @@ author:
       url: "https://twitter.com/uhwidi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/usufhwidi"
+      url: "https://github.com/YoussefElsherbiiny"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/usufhwidi"
+      url: "https://www.linkedin.com/in/YoussefElsherbiny"
 
    # - label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
@@ -89,7 +89,7 @@ footer:
       url: "https://github.com/usufhwidi"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/usufhwidi"
+      url: "https://www.linkedin.com/in/YoussefElsherbiny"
 
 defaults:
   # _posts
