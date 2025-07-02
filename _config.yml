@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Youssef Elsherbiny"
   avatar : "/assets/images/Hwidi.jpeg"
-  bio    : "Cyber Security Analyst @ Coordinates, Malware Analyst"
+  bio    : "Cyber Security Analyst @ Coordinates"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
