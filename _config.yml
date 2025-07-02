@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Youssef Elsherbiny"
   avatar : "/assets/images/Hwidi.jpeg"
-  bio    : "Cyber Security Analyst @ Coordinates | Malware Analyst, highly motivated and computer science enthusiast with a passion for incident detection and response, reverse engineering, and malware analysis. Proven experience with various SIEM, EDRs, NDRs, and XDRs solutions. Static and dynamic analysis tools, and x86/x64 assembly. My technical expertise and strategic insight help ensure robust defense mechanisms and maintain organizational security."
+  bio    : "Cyber Security Analyst @ Coordinates | Malware Analyst"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
